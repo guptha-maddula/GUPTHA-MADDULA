@@ -28,6 +28,6 @@
 </a> </p>
 
 <p align="left">Hello World!!<br><br>Passionate DevOps Engineer with a strong technical background and extensive experience in cloud platforms, automation, and infrastructure management. I have a proven track record of successfully implementing and managing robust DevOps pipelines and ensuring efficient and scalable cloud solutions.<br><br>## Technical Expertise<br>- Cloud Platforms: Amazon Web Services [AWS]<br>- Version Control:** Git<br>- Automation: Ansible<br>- Continuous Integration/Continuous Deployment: Jenkins<br>- Containerization: Docker<br>- Orchestration: Kubernetes<br>- Infrastructure as Code: Terraform<br>- Monitoring and Logging: Prometheus<br>- Web Servers: Nginx<br>
--Database Management: Mssql<br>,MySql<br> p>
+-Database Management: Mssql<br>,MySql<br> <p>
 
 
