@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm MV Ramakrishna Guptha</h1>
 <h3 align="center">a passionate DevOps enthusiast eager to dive into the world of cloud platforms, automation, and infrastructure management. I am currently honing my skills in DevOps tools and technologies while contributing to projects that bridge the gap between development and operations.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptha-maddula&label=Profile%20views&color=0e75b6&style=flat" alt="guptha-maddula" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif"
+
 
 - 🌱 I’m currently learning **Devops Tools @ DevsecOps**
 
@@ -24,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptha-maddula&show_icons=true&locale=en&layout=compact" alt="guptha-maddula" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptha-maddula&" alt="guptha-maddula" /></p>
+
