@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/guptha-maddula](https://github.com/guptha-maddula)
 
-- 💬 Ask me about **Cloud Services & Devops**
+- 💬 Ask me about ** AWS Cloud Services & Devops**
 
 - 📫 Reach me at **ramakrishnaguptha2004@gmail.com**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/13AUP75iKDr1sOGLBFMv0LPXz6yhXl8tu/view?usp=drive_link)
+- 📄 [View My Resume](https://drive.google.com/file/d/1zGpxnwdU-V3HfeUmo2i47O4fTORz6LfD/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
