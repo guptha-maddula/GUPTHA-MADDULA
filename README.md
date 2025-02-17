@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **Devops Technologies**
+- 🌱 I’m currently learning *Devops Technologies*
 
 - 👨‍💻 All of my projects are available at [https://github.com/guptha-maddula](https://github.com/guptha-maddula)
 
-- 💬 Ask me about ** AWS Cloud Services & Devops**
+- 💬 Ask me about **AWS Cloud Services & Devops**
 
 - 📫 Reach me at **ramakrishnaguptha2004@gmail.com**
 
