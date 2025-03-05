@@ -37,7 +37,7 @@
     Passionate DevOps Engineer with a strong technical background and extensive experience in cloud platforms, automation, and infrastructure management. I have a proven track record of successfully implementing and managing robust DevOps pipelines and ensuring efficient and scalable cloud solutions.<br><br>
     <strong>Technical Expertise</strong><br>
     - <strong>Cloud Platforms:</strong> Amazon Web Services (AWS)<br>
-    - <strong>Version Control:</strong> Git<br>
+    - <strong>Version Control:</strong> Git & Github<br>
     - <strong>Automation:</strong> Ansible<br>
     - <strong>Continuous Integration/Continuous Deployment:</strong> Jenkins<br>
     - <strong>Containerization:</strong> Docker<br>
