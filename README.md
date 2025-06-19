@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **ramakrishnaguptha2004@gmail.com**
 
-%- 📄 [View My Resume](https://drive.google.com/file/d/1Ee57BxMejReL_7FB0hX4oQE0N-vr_u-v/view?usp=drive_link)
+//- 📄 [View My Resume](https://drive.google.com/file/d/1Ee57BxMejReL_7FB0hX4oQE0N-vr_u-v/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
